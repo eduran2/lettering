@@ -2,7 +2,19 @@
 YOUR STYLES
 *******************/
 
+h1 {
+    text-transform: uppercase;
+    color: blue;
+}
 
+.char1,
+.char9,
+.char15 {
+    background: red;
+    padding: 10px;
+    transform: rotate(15deg);
+    display: inline-block;
+}
 
 
 /********************
